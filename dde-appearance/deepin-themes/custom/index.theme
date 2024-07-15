@@ -1,0 +1,31 @@
+[DarkTheme]
+ActiveColor=#0081FF
+AppTheme=deepin-dark
+CursorTheme=bloom
+DockOpacity=0.08
+FontSize=10.5
+IconTheme=flow
+LockBackground=/usr/share/deepin-themes/flow/flow-dark.png
+MonospaceFont=Noto Mono
+StandardFont=Noto Sans CJK SC
+Wallpaper=/usr/share/deepin-themes/flow/flow-dark.png
+WindowOpacity=0.4
+WindowRadius=18
+[Deepin Theme]
+DarkTheme=DarkTheme
+DefaultTheme=DefaultTheme
+Example=/usr/share/dde-appearance/custom.svg
+Name=Custom
+[DefaultTheme]
+ActiveColor=#0081FF
+AppTheme=deepin
+CursorTheme=bloom
+DockOpacity=0.08
+FontSize=10.5
+IconTheme=flow
+LockBackground=/usr/share/deepin-themes/flow/flow-light.png
+MonospaceFont=Noto Mono
+StandardFont=Noto Sans CJK SC
+Wallpaper=/usr/share/deepin-themes/flow/flow-light.png
+WindowOpacity=0.4
+WindowRadius=18

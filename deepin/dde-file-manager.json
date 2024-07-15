@@ -1,0 +1,96 @@
+{
+    "QuickAccess": {
+        "Items": [
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 0,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Recent",
+                "url": "recent:///"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 1,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Home",
+                "url": "file:///home/rutra"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 2,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Desktop",
+                "url": "file:///home/rutra/Desktop"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 3,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Videos",
+                "url": "file:///home/rutra/Videos"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 4,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Music",
+                "url": "file:///home/rutra/Music"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 5,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Pictures",
+                "url": "file:///home/rutra/Pictures"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 6,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Documents",
+                "url": "file:///home/rutra/Documents"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 7,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Downloads",
+                "url": "file:///home/rutra/Downloads"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 8,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Trash",
+                "url": "trash:///"
+            }
+        ]
+    }
+}

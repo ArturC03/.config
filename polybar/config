@@ -1,0 +1,47 @@
+[bar/example]
+width = 100%
+height = 30
+border-size = 1
+border-color = #333333
+background = #1d1f21
+foreground = #c5c8c6
+font-0 = "FiraCode Nerd Font:size=10;3"
+font-1 = "FontAwesome:size=12"
+
+modules-left = cpu memory
+modules-center = date
+modules-right = volume battery
+
+[module/cpu]
+type = internal/cpu
+interval = 2
+format-prefix = "CPU: "
+format = <label>
+label = %usage%%
+label-foreground = #8abeb7
+label-background = #1d1f21
+label-padding = 2
+
+[module/memory]
+type = internal/memory
+interval = 2
+format-prefix = "RAM: "
+format = <label>
+label = %used%/%total:gb%GB
+label-foreground = #b294bb
+label-background = #1d1f21
+label-padding = 2
+
+[module/date]
+type = internal/date
+interval = 5
+date = "%a %Y-%m-%d %H:%M:%S"
+time = 1
+label-foreground = #de935f
+label-background = #1d1f21
+label-padding = 2
+
+[module/volume]
+type = internal/volume
+format
+

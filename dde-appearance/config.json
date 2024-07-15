@@ -1,0 +1,31 @@
+[
+    {
+        "type": "index+monitorName",
+        "wallpaperInfo": [
+            {
+                "uri": "file:///usr/share/wallpapers/deepin/Scenery_in_Plateau_by_Arto_Marttinen.jpg",
+                "wpIndex": "1+DP-2"
+            },
+            {
+                "uri": "file:///usr/share/wallpapers/deepin/Balloon_by_Matt_Benson.jpg",
+                "wpIndex": "2+DP-2"
+            },
+            {
+                "uri": "file:///usr/share/deepin-themes/flow/flow-dark.png",
+                "wpIndex": "1+VGA-1"
+            },
+            {
+                "uri": "file:///usr/share/wallpapers/deepin/Flying_Whale_by_Shu_Le.jpg",
+                "wpIndex": "2+VGA-1"
+            },
+            {
+                "uri": "file:///usr/share/wallpapers/deepin/Overlooking_by_Lance_Asper.jpg",
+                "wpIndex": "0+DP-2"
+            },
+            {
+                "uri": "file:///usr/share/wallpapers/deepin/Paper_Architecture_by_Dmitri_Popov.jpg",
+                "wpIndex": "0+VGA-1"
+            }
+        ]
+    }
+]
